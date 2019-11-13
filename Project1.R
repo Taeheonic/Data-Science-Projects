@@ -1,4 +1,3 @@
-setwd("/Users/beautifulmonster/Desktop/STAT6021")
 diamond <- read.csv('clean_diamond_data.csv')
 head(diamond)
 library(MASS)
